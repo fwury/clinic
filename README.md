@@ -28,12 +28,11 @@ The input file must be a plain text file named `input.txt` with the following st
 
 ## Output Format
 
-The program generates a plain text file named `output.txt` listing patients sorted in descending order by the number of abnormal measurements.
+The program generates a plain text file named `output.txt` listing patients sorted in descending order by the number of abnormal measurements:
 
 `Patient: <Name> (<ID>)
 Sex: <Sex (M or F)>
-Age: <Age> (<Date of Birth (YYYY-MM-DD)>)
-
+Age: <Age> (<Date of Birth (YYYY-MM-DD)>)  
 -- Alerts --
 <Date> [<Vital Sign>] <Alert Description> (<Measured Value>)`
 
