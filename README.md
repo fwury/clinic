@@ -33,7 +33,8 @@ The program generates a plain text file named `output.txt` listing patients sort
 ```
 Patient: <Name> (<ID>)
 Sex: <Sex (M or F)>
-Age: <Age> (<Date of Birth (YYYY-MM-DD)>)  
+Age: <Age> (<Date of Birth (YYYY-MM-DD)>)
+
 -- Alerts --
 <Date> [<Vital Sign>] <Alert Description> (<Measured Value>)
 ```
