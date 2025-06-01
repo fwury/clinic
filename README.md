@@ -30,27 +30,27 @@ The input file must be a plain text file named `input.txt` with the following st
 
 The program generates a plain text file named `output.txt` listing patients sorted in descending order by the number of abnormal measurements:
 
-`Patient: <Name> (<ID>)
+```Patient: <Name> (<ID>)
 Sex: <Sex (M or F)>
 Age: <Age> (<Date of Birth (YYYY-MM-DD)>)  
 -- Alerts --
-<Date> [<Vital Sign>] <Alert Description> (<Measured Value>)`
+<Date> [<Vital Sign>] <Alert Description> (<Measured Value>)```
 
 If the patient has no alerts:
 
-`-- Alerts --
-No alerts.`
+```-- Alerts --
+No alerts.```
 
 **Example:**
 
-`Patient: Priya Patel (1886631594)
+```Patient: Priya Patel (1886631594)
 Sex: F
 Age: 36 (1988-11-03)
 
 -- Alerts --
 2024-03-14 [Heart Rate] Bradycardia (42 bpm)
 2024-03-14 [Blood Pressure] Possible hypotension (85/55 mmHg)
-2025-01-06 [Temperature] Moderate fever (38.5 °C)`
+2025-01-06 [Temperature] Moderate fever (38.5 °C)```
 
 ## Possible Extensions
 - Add support for additional vitals like oxygen saturation
