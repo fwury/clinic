@@ -4,7 +4,7 @@ import java.time.*;
 
 public class ClinicProgram {
     public static void main(String[] args) {
-        File inputFile = new File("./input.txt");
+        File inputFile = new File("../input.txt");
         
         System.out.println("\nReading and processing data…");
         Clinic clinic = new Clinic(inputFile);
@@ -12,7 +12,7 @@ public class ClinicProgram {
         System.out.println("Writing report…");
         String report = clinic.generateReport();
         
-        File outputFile = new File("./output.txt");
+        File outputFile = new File("../output.txt");
         try (PrintWriter writer = new PrintWriter(outputFile)) {
             writer.print(report);
             System.out.println("Report written successfully.");
