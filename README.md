@@ -30,7 +30,8 @@ The input file must be a plain text file named `input.txt` with the following st
 
 The program generates a plain text file named `output.txt` listing patients sorted in descending order by the number of abnormal measurements:
 
-```Patient: <Name> (<ID>)
+```
+Patient: <Name> (<ID>)
 Sex: <Sex (M or F)>
 Age: <Age> (<Date of Birth (YYYY-MM-DD)>)  
 -- Alerts --
@@ -39,13 +40,15 @@ Age: <Age> (<Date of Birth (YYYY-MM-DD)>)
 
 If the patient has no alerts:
 
-```-- Alerts --
+```
+-- Alerts --
 No alerts.
 ```
 
 **Example:**
 
-```Patient: Priya Patel (1886631594)
+```
+Patient: Priya Patel (1886631594)
 Sex: F
 Age: 36 (1988-11-03)
 
