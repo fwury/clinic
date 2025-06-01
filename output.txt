@@ -1,1 +1,168 @@
+=========================
+      CLINIC REPORT      
+=========================
 
+Patient: Nina Okafor (3049172651)
+Sex: F
+Age: 39 (1985-06-14)
+
+-- Alerts --
+2024-11-15 [Heart Rate] Tachycardia (110 bpm)
+2024-11-15 [Blood Pressure] Possible hypertension stage 2 (145/95 mmHg)
+2024-11-15 [Temperature] Moderate fever (38.2 °C)
+2025-02-22 [Heart Rate] Tachycardia (114 bpm)
+2025-02-22 [Blood Pressure] Possible hypertension stage 2 (150/100 mmHg)
+2025-02-22 [Temperature] Moderate fever (38.7 °C)
+2025-02-22 [Respiratory Rate] Tachypnea (23 breaths/min)
+2025-04-26 [Heart Rate] Tachycardia (108 bpm)
+2025-04-26 [Blood Pressure] Possible hypertension stage 2 (144/96 mmHg)
+2025-04-26 [Temperature] Moderate fever (38.1 °C)
+2025-04-26 [Respiratory Rate] Tachypnea (21 breaths/min)
+
+-------------------------
+
+Patient: Harpreet Kaur (9928301764)
+Sex: F
+Age: 47 (1978-03-19)
+
+-- Alerts --
+2025-01-22 [Blood Pressure] Possible hypertension stage 2 (142/89 mmHg)
+2025-01-22 [Respiratory Rate] Tachypnea (21 breaths/min)
+2025-03-14 [Heart Rate] Tachycardia (103 bpm)
+2025-03-14 [Blood Pressure] Possible hypertension stage 2 (145/92 mmHg)
+2025-03-14 [Temperature] Moderate fever (38.4 °C)
+2025-03-14 [Respiratory Rate] Tachypnea (22 breaths/min)
+2025-05-04 [Blood Pressure] Possible hypertension stage 2 (140/88 mmHg)
+
+-------------------------
+
+Patient: Anna Kowalska (5183906247)
+Sex: F
+Age: 32 (1993-01-30)
+
+-- Alerts --
+2024-12-20 [Heart Rate] Tachycardia (102 bpm)
+2024-12-20 [Blood Pressure] Possible hypertension stage 2 (135/90 mmHg)
+2024-12-20 [Temperature] Moderate fever (38.1 °C)
+2024-12-20 [Respiratory Rate] Tachypnea (22 breaths/min)
+2025-03-05 [Blood Pressure] Possible hypertension stage 1 (133/87 mmHg)
+2025-05-19 [Blood Pressure] Possible hypertension stage 1 (129/85 mmHg)
+
+-------------------------
+
+Patient: Grace Li (6518309427)
+Sex: F
+Age: 25 (1999-06-20)
+
+-- Alerts --
+2025-02-01 [Heart Rate] Tachycardia (105 bpm)
+2025-02-01 [Blood Pressure] Possible hypertension stage 1 (138/88 mmHg)
+2025-02-01 [Temperature] Moderate fever (38.0 °C)
+2025-04-10 [Heart Rate] Tachycardia (101 bpm)
+2025-04-10 [Blood Pressure] Possible hypertension stage 1 (136/86 mmHg)
+
+-------------------------
+
+Patient: Julia Santos (8462091735)
+Sex: F
+Age: 38 (1986-12-01)
+
+-- Alerts --
+2024-11-06 [Blood Pressure] Possible hypertension stage 1 (130/85 mmHg)
+2025-03-01 [Blood Pressure] Possible hypertension stage 1 (126/82 mmHg)
+2025-05-01 [Blood Pressure] Possible hypertension stage 1 (124/80 mmHg)
+
+-------------------------
+
+Patient: Daniel Schmidt (1482306742)
+Sex: M
+Age: 34 (1990-11-02)
+
+-- Alerts --
+2024-11-02 [Blood Pressure] Possible hypertension stage 1 (120/80 mmHg)
+2025-03-25 [Blood Pressure] Possible hypertension stage 1 (128/84 mmHg)
+
+-------------------------
+
+Patient: David Chen (8731024956)
+Sex: M
+Age: 43 (1982-04-22)
+
+-- Alerts --
+2024-12-11 [Blood Pressure] Possible hypertension stage 1 (125/82 mmHg)
+2025-03-10 [Blood Pressure] Possible elevated blood pressure (120/79 mmHg)
+
+-------------------------
+
+Patient: Connor O'Leary (7159234086)
+Sex: M
+Age: 50 (1975-03-04)
+
+-- Alerts --
+2025-01-07 [Blood Pressure] Possible hypertension stage 2 (140/92 mmHg)
+2025-04-21 [Blood Pressure] Possible hypertension stage 2 (138/91 mmHg)
+
+-------------------------
+
+Patient: Samuel Adeyemi (6921478309)
+Sex: M
+Age: 25 (2000-05-17)
+
+-- Alerts --
+2025-01-25 [Blood Pressure] Possible hypertension stage 1 (122/81 mmHg)
+
+-------------------------
+
+Patient: Noah Patel (4389127605)
+Sex: M
+Age: 50 (1974-08-03)
+
+-- Alerts --
+No alerts.
+
+-------------------------
+
+Patient: Aisha Hassan (5839174021)
+Sex: F
+Age: 23 (2001-09-08)
+
+-- Alerts --
+No alerts.
+
+-------------------------
+
+Patient: Wei Zhang (2398475610)
+Sex: F
+Age: 36 (1988-10-25)
+
+-- Alerts --
+No alerts.
+
+-------------------------
+
+Patient: Emily Thompson (1205839471)
+Sex: F
+Age: 30 (1995-02-11)
+
+-- Alerts --
+No alerts.
+
+-------------------------
+
+Patient: Tariq Al-Mansour (3672509813)
+Sex: M
+Age: 55 (1969-07-12)
+
+-- Alerts --
+No alerts.
+
+-------------------------
+
+Patient: Luis Fernando Alvarez (7602193845)
+Sex: M
+Age: 58 (1966-12-30)
+
+-- Alerts --
+No alerts.
+
+-------------------------
