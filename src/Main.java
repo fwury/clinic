@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 import java.time.*;
 
-public class ClinicProgram {
+public class Main {
     public static void main(String[] args) {
         File inputFile = new File("../input.txt");
         
