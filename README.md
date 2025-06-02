@@ -1,4 +1,4 @@
-# Clinical Patient Vitals Monitoring System
+# Patient Vitals Monitoring System
 
 This Java program processes raw vitals data from patients (including heart rate, blood pressure, temperature, and respiratory rate) and identifies any measurements outside of normal medical ranges for their age and sex. It generates a report listing patients sorted by the number of alerts, allowing clinicians to prioritize follow-up care.
 
