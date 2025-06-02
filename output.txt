@@ -2,165 +2,219 @@
       CLINIC REPORT      
 =========================
 
-Patient: Nina Okafor (3049172651)
-Sex: F
-Age: 39 (1985-06-14)
+Patient: Dmitry Petrov (9567890123)
+Sex: M
+Age: 24 (2001-04-17)
 
 -- Alerts --
-2024-11-15 [Heart Rate] Tachycardia (110 bpm)
-2024-11-15 [Blood Pressure] Possible hypertension stage 2 (145/95 mmHg)
-2024-11-15 [Temperature] Moderate fever (38.2 °C)
-2025-02-22 [Heart Rate] Tachycardia (114 bpm)
-2025-02-22 [Blood Pressure] Possible hypertension stage 2 (150/100 mmHg)
-2025-02-22 [Temperature] Moderate fever (38.7 °C)
-2025-02-22 [Respiratory Rate] Tachypnea (23 breaths/min)
-2025-04-26 [Heart Rate] Tachycardia (108 bpm)
-2025-04-26 [Blood Pressure] Possible hypertension stage 2 (144/96 mmHg)
-2025-04-26 [Temperature] Moderate fever (38.1 °C)
-2025-04-26 [Respiratory Rate] Tachypnea (21 breaths/min)
+2023-09-10 [Heart Rate] Tachycardia (104 bpm)
+2023-09-10 [Blood Pressure] Possible hypertension stage 2 (145/95 mmHg)
+2023-09-10 [Temperature] Moderate fever (38.5 °C)
+2023-09-10 [Respiratory Rate] Tachypnea (24 breaths/min)
+2024-08-09 [Blood Pressure] Possible hypertension stage 2 (137/90 mmHg)
+2024-08-09 [Temperature] Moderate fever (38.1 °C)
+2024-08-09 [Respiratory Rate] Tachypnea (23 breaths/min)
+2025-04-21 [Blood Pressure] Possible hypertension stage 2 (140/91 mmHg)
+2025-04-21 [Temperature] Moderate fever (38.0 °C)
+2025-04-21 [Respiratory Rate] Tachypnea (22 breaths/min)
 
 -------------------------
 
-Patient: Harpreet Kaur (9928301764)
+Patient: Anaya Chopra (9012345678)
 Sex: F
-Age: 47 (1978-03-19)
+Age: 19 (2005-11-08)
 
 -- Alerts --
-2025-01-22 [Blood Pressure] Possible hypertension stage 2 (142/89 mmHg)
-2025-01-22 [Respiratory Rate] Tachypnea (21 breaths/min)
-2025-03-14 [Heart Rate] Tachycardia (103 bpm)
-2025-03-14 [Blood Pressure] Possible hypertension stage 2 (145/92 mmHg)
-2025-03-14 [Temperature] Moderate fever (38.4 °C)
-2025-03-14 [Respiratory Rate] Tachypnea (22 breaths/min)
-2025-05-04 [Blood Pressure] Possible hypertension stage 2 (140/88 mmHg)
+2024-02-09 [Heart Rate] Tachycardia (102 bpm)
+2024-02-09 [Blood Pressure] Possible hypertension stage 2 (142/92 mmHg)
+2024-02-09 [Temperature] Moderate fever (38.6 °C)
+2024-02-09 [Respiratory Rate] Tachypnea (23 breaths/min)
+2024-07-22 [Heart Rate] Tachycardia (105 bpm)
+2024-07-22 [Blood Pressure] Possible hypertension stage 2 (146/96 mmHg)
+2024-07-22 [Temperature] Moderate fever (38.9 °C)
+2024-07-22 [Respiratory Rate] Tachypnea (24 breaths/min)
 
 -------------------------
 
-Patient: Anna Kowalska (5183906247)
-Sex: F
-Age: 32 (1993-01-30)
+Patient: Carlos Méndez (9123456789)
+Sex: M
+Age: 52 (1972-07-03)
 
 -- Alerts --
-2024-12-20 [Heart Rate] Tachycardia (102 bpm)
-2024-12-20 [Blood Pressure] Possible hypertension stage 2 (135/90 mmHg)
-2024-12-20 [Temperature] Moderate fever (38.1 °C)
-2024-12-20 [Respiratory Rate] Tachypnea (22 breaths/min)
-2025-03-05 [Blood Pressure] Possible hypertension stage 1 (133/87 mmHg)
-2025-05-19 [Blood Pressure] Possible hypertension stage 1 (129/85 mmHg)
+2023-06-19 [Blood Pressure] Possible hypertension stage 1 (138/89 mmHg)
+2023-06-19 [Temperature] Moderate fever (38.2 °C)
+2023-06-19 [Respiratory Rate] Tachypnea (22 breaths/min)
+2024-03-19 [Blood Pressure] Possible hypertension stage 2 (144/93 mmHg)
+2024-03-19 [Temperature] Moderate fever (38.3 °C)
+2024-03-19 [Respiratory Rate] Tachypnea (22 breaths/min)
 
 -------------------------
 
-Patient: Grace Li (6518309427)
-Sex: F
-Age: 25 (1999-06-20)
+Patient: Liam O'Reilly (8901234567)
+Sex: M
+Age: 41 (1984-03-12)
 
 -- Alerts --
-2025-02-01 [Heart Rate] Tachycardia (105 bpm)
-2025-02-01 [Blood Pressure] Possible hypertension stage 1 (138/88 mmHg)
-2025-02-01 [Temperature] Moderate fever (38.0 °C)
+2023-08-01 [Blood Pressure] Possible hypertension stage 1 (132/85 mmHg)
+2024-04-22 [Blood Pressure] Possible hypertension stage 1 (129/83 mmHg)
+2024-11-28 [Blood Pressure] Possible hypertension stage 1 (130/85 mmHg)
 2025-04-10 [Heart Rate] Tachycardia (101 bpm)
 2025-04-10 [Blood Pressure] Possible hypertension stage 1 (136/86 mmHg)
 
 -------------------------
 
-Patient: Julia Santos (8462091735)
+Patient: Emily Chen (8890123456)
 Sex: F
-Age: 38 (1986-12-01)
+Age: 7 (2018-04-16)
 
 -- Alerts --
-2024-11-06 [Blood Pressure] Possible hypertension stage 1 (130/85 mmHg)
-2025-03-01 [Blood Pressure] Possible hypertension stage 1 (126/82 mmHg)
-2025-05-01 [Blood Pressure] Possible hypertension stage 1 (124/80 mmHg)
+2024-06-11 [Blood Pressure] Possible hypertension (125/81 mmHg)
+2024-06-11 [Temperature] Moderate fever (38.0 °C)
+2025-03-04 [Blood Pressure] Possible hypertension (136/88 mmHg)
+2025-03-04 [Temperature] Moderate fever (38.4 °C)
 
 -------------------------
 
-Patient: Daniel Schmidt (1482306742)
+Patient: Thabo Mokoena (8345678901)
 Sex: M
-Age: 34 (1990-11-02)
+Age: 70 (1955-03-19)
 
 -- Alerts --
-2024-11-02 [Blood Pressure] Possible hypertension stage 1 (120/80 mmHg)
-2025-03-25 [Blood Pressure] Possible hypertension stage 1 (128/84 mmHg)
+2023-01-10 [Blood Pressure] Possible hypertension stage 2 (140/90 mmHg)
+2024-06-01 [Blood Pressure] Possible hypertension stage 1 (138/88 mmHg)
+2025-03-18 [Blood Pressure] Possible hypertension stage 1 (133/85 mmHg)
 
 -------------------------
 
-Patient: David Chen (8731024956)
-Sex: M
-Age: 43 (1982-04-22)
+Patient: Alex Morgan (8567890123)
+Sex: X
+Age: 17 (2008-06-01)
 
 -- Alerts --
-2024-12-11 [Blood Pressure] Possible hypertension stage 1 (125/82 mmHg)
-2025-03-10 [Blood Pressure] Possible elevated blood pressure (120/79 mmHg)
+2023-11-18 [Blood Pressure] Possible hypertension stage 1 (135/88 mmHg)
+2023-11-18 [Respiratory Rate] Tachypnea (21 breaths/min)
+2024-09-13 [Blood Pressure] Possible hypertension stage 1 (129/84 mmHg)
 
 -------------------------
 
-Patient: Connor O'Leary (7159234086)
-Sex: M
-Age: 50 (1975-03-04)
-
--- Alerts --
-2025-01-07 [Blood Pressure] Possible hypertension stage 2 (140/92 mmHg)
-2025-04-21 [Blood Pressure] Possible hypertension stage 2 (138/91 mmHg)
-
--------------------------
-
-Patient: Samuel Adeyemi (6921478309)
-Sex: M
-Age: 25 (2000-05-17)
-
--- Alerts --
-2025-01-25 [Blood Pressure] Possible hypertension stage 1 (122/81 mmHg)
-
--------------------------
-
-Patient: Noah Patel (4389127605)
-Sex: M
-Age: 50 (1974-08-03)
-
--- Alerts --
-No alerts.
-
--------------------------
-
-Patient: Aisha Hassan (5839174021)
+Patient: Harper Nguyen (8012345678)
 Sex: F
-Age: 23 (2001-09-08)
+Age: 22 (2003-01-30)
 
 -- Alerts --
-No alerts.
+2023-11-11 [Blood Pressure] Possible hypertension stage 1 (130/84 mmHg)
+2024-05-15 [Blood Pressure] Possible hypertension stage 1 (134/86 mmHg)
+2024-05-15 [Respiratory Rate] Tachypnea (21 breaths/min)
 
 -------------------------
 
-Patient: Wei Zhang (2398475610)
-Sex: F
-Age: 36 (1988-10-25)
-
--- Alerts --
-No alerts.
-
--------------------------
-
-Patient: Emily Thompson (1205839471)
-Sex: F
-Age: 30 (1995-02-11)
-
--- Alerts --
-No alerts.
-
--------------------------
-
-Patient: Tariq Al-Mansour (3672509813)
+Patient: Jason Kim (8789012345)
 Sex: M
-Age: 55 (1969-07-12)
+Age: 18 (2006-09-25)
+
+-- Alerts --
+2023-12-20 [Blood Pressure] Possible elevated blood pressure (126/79 mmHg)
+2025-03-25 [Blood Pressure] Possible elevated blood pressure (120/76 mmHg)
+
+-------------------------
+
+Patient: Tariq Nasser (9901234567)
+Sex: M
+Age: 45 (1979-08-23)
+
+-- Alerts --
+2024-01-17 [Blood Pressure] Possible hypertension stage 1 (133/87 mmHg)
+2024-11-02 [Blood Pressure] Possible hypertension stage 1 (131/86 mmHg)
+
+-------------------------
+
+Patient: Amina Yusuf (9678901234)
+Sex: F
+Age: 76 (1948-10-10)
+
+-- Alerts --
+2023-05-14 [Blood Pressure] Possible elevated blood pressure (122/78 mmHg)
+2024-10-20 [Blood Pressure] Possible elevated blood pressure (124/78 mmHg)
+
+-------------------------
+
+Patient: Yuki Nakamura (9234567890)
+Sex: F
+Age: 9 (2015-09-22)
+
+-- Alerts --
+2024-04-05 [Blood Pressure] Possible hypertension (121/80 mmHg)
+2025-05-15 [Blood Pressure] Possible hypertension (123/81 mmHg)
+
+-------------------------
+
+Patient: Samir Al-Khatib (9345678901)
+Sex: M
+Age: 65 (1960-01-15)
+
+-- Alerts --
+2023-03-04 [Blood Pressure] Possible hypertension stage 1 (128/82 mmHg)
+2025-01-14 [Blood Pressure] Possible elevated blood pressure (121/77 mmHg)
+
+-------------------------
+
+Patient: Noah Johnson (9789012345)
+Sex: M
+Age: 14 (2010-12-02)
+
+-- Alerts --
+2025-02-19 [Blood Pressure] Possible elevated blood pressure (123/79 mmHg)
+
+-------------------------
+
+Patient: Sofia Dimitrova (8456789012)
+Sex: F
+Age: 44 (1980-12-27)
+
+-- Alerts --
+2023-08-15 [Blood Pressure] Possible hypertension stage 1 (125/80 mmHg)
+
+-------------------------
+
+Patient: Jasper Singh (8123456789)
+Sex: M
+Age: 11 (2013-07-11)
+
+-- Alerts --
+2025-02-05 [Blood Pressure] Possible hypertension (127/82 mmHg)
+
+-------------------------
+
+Patient: Isabella Rossi (9890123456)
+Sex: F
+Age: 35 (1989-06-14)
+
+-- Alerts --
+2023-10-05 [Blood Pressure] Possible elevated blood pressure (120/70 mmHg)
+
+-------------------------
+
+Patient: Elena Garcia (8234567890)
+Sex: F
+Age: 30 (1995-02-05)
 
 -- Alerts --
 No alerts.
 
 -------------------------
 
-Patient: Luis Fernando Alvarez (7602193845)
-Sex: M
-Age: 58 (1966-12-30)
+Patient: Chloe Dubois (9456789012)
+Sex: F
+Age: 27 (1998-05-29)
+
+-- Alerts --
+No alerts.
+
+-------------------------
+
+Patient: Leila Haddad (8678901234)
+Sex: F
+Age: 57 (1967-11-03)
 
 -- Alerts --
 No alerts.
